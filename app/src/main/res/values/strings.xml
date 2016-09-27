@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Near Places</string>
+    <string name="google_places_key">AIzaSyAXh0N6kEDQ-pHsoUsuCmnN6BMqqTLjNco</string>
+    <string name="network_error">Network error occurred.\nTry later.</string>
+    <string name="no_internet_connection">No Internet connection.</string>
+    <string name="error_while_location">Error while retrieving location</string>
+    <string name="get_places_btn">get</string>
+</resources>
